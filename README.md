@@ -1,8 +1,8 @@
 # main
 Node. scripting technology to give you more control over your trading. Security and trading efficiency are core goals.
 
-# TH - Trade Hunter
-Token Address -
+# HTR - Trade Hunter
+Token Address - 0x6f6939C64F60D59D71c8A62b02Cfd99645e25012
 
 wallet-keys.js - add your private key and wallet address. Note that ONLY buysell.js uses these keys for the standard uniswap contracts and token spending approval.
 
@@ -17,4 +17,15 @@ Make sure your Node.js is the correct version (using npm): 14.15.1 npm cache cle
 Extract files into a folder and run the following commands to install modules, you only need to run this command once: npm install
 
 To start running the bot: npm start
+
 money!
+
+# Rules:You MUST hold in your wallet at least 10 HTR Token to use!
+Pricing tiers/limits are as follows:
+
+10 HTR - 1 max tokens simultaneously and only buy/sell limit prices
+
+50 HTR - 8 max tokens simultaneously and trailing stop and trailing buy feature
+
+150 HTR - unlimited scans and all features
+
