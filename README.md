@@ -29,3 +29,4 @@ Pricing tiers/limits are as follows:
 
 150 HTR - unlimited scans and all features
 
+# Presale Open Now!
