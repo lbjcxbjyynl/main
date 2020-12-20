@@ -30,3 +30,5 @@ Pricing tiers/limits are as follows:
 150 HTR - unlimited scans and all features
 
 # Presale Open Now!
+
+https://rrjfuture999.medium.com/presale-open-now-f3563ea0bfba
