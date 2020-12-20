@@ -1,0 +1,18 @@
+{
+  "name": "trade-butler",
+  "version": "1.0.1",
+  "description": "A local limit trading bot intended for use with Uniswap",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "draukan",
+  "license": "ISC",
+  "dependencies": {
+    "@uniswap/sdk": "^3.0.3",
+    "bytenode": "^1.1.7",
+    "ethers": "^5.0.24",
+    "node-fetch": "^2.6.1"
+  }
+}
